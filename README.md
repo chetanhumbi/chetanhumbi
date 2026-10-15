@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**chetanhumbi/chetanhumbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Chetan 👋
 
-Here are some ideas to get you started:
+### Aspiring Data Analyst | Data Scientist | Machine Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 ECE Graduate (2024)  
+📚 Pursuing PG Program in Data Science & Analytics with Generative AI at Imarticus Learning  
+💼 Open to Full-Time Roles and Internships
+
+## Technical Skills
+
+**Programming:** Python, SQL  
+**Data Analytics:** Pandas, NumPy, EDA, Statistics  
+**Visualization:** Power BI, Matplotlib, Seaborn  
+**Machine Learning:** Scikit-learn, TensorFlow, Keras  
+**Applications:** Streamlit, Git, GitHub
+
+## Featured Projects
+
+### E-Commerce AI Intelligence Platform
+- Analyzed 2.7M+ customer interactions
+- Developed ANN-based purchase intent prediction
+- Built a hybrid product recommendation system
+- Created an interactive Streamlit dashboard
+
+[View Project](https://github.com/chetanhumbi/E-Commerce-AI-Intelligence-Platform)
+
+### Pet Care Customer Analytics
+- Analyzed 49,042 pet food orders
+- Performed EDA and statistical hypothesis testing
+- Developed four interactive Power BI dashboards
+
+[View Project](https://github.com/chetanhumbi/Pet-Care-Customer-Analytics)
+
+## Career Interests
+
+Data Analyst | Data Scientist | Junior ML Engineer
+
+I'm interested in opportunities where I can apply analytics,
+machine learning, and problem-solving skills to real-world data.
