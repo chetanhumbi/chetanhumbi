@@ -1,5 +1,5 @@
 
-# Hi, I'm Chetan 👋
+# Hi, I'm Chetan Kumar B Humbi 👋
 
 ### Aspiring Data Analyst | Data Scientist | Machine Learning Enthusiast
 
